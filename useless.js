@@ -1,5 +1,5 @@
 const useless = () =>{
-    console.log("waste");
+    console.log("waste is updated");
 }
 
 module.exports = useless;
